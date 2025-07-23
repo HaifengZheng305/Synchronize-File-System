@@ -1,5 +1,8 @@
 # GRPC and Distributed Systems
 
+## GRADE
+100/100points
+
 ## Foreward
 
 In this project, you will design and implement a simple distributed file system (DFS).  First, you will develop several file transfer protocols using gRPC and Protocol Buffers. Next, you will incorporate a weakly consistent synchronization system to manage cache consistency between multiple clients and a single server. The system should be able to handle both binary and text-based files.
