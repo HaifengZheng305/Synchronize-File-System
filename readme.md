@@ -1,10 +1,4 @@
-# 🔁 Shared Memory & Message Passing System
-
-**Author:** Haifeng Zheng  
-**Course:** CS6200 – Graduate Introduction to Operating Systems  
-**Instructor:** Professor Ada Gavrilovska  
-**Date:** September 20, 2024  
-
+# 🔁 Synchronize File System
 ---
 
 ## 📘 Overview
